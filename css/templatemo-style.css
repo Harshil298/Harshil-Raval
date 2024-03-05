@@ -418,3 +418,9 @@ footer hr
         color: #D43F52;
     }
 /* end social icon */
+
+@media (max-width : 560px) {
+    #portfolio .container .row .portfolio-thumb .portfolio-overlay{
+        padding:0 0 40px 0;
+    }
+}
