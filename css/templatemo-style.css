@@ -226,7 +226,7 @@ h1,h2,h3,h4,h5
       margin-top: 30px;
     }
 	
-#work .media .fa
+#work .media .fa, .fa-brands,.fa-solid
     {
         border: 2px solid #ffffff;
         border-radius: 50%;
@@ -240,7 +240,7 @@ h1,h2,h3,h4,h5
         vertical-align: middle;
         transition: all 0.4s ease-in;
     }
-#work .media .fa:hover
+#work .media .fa:hover,.fa-brands:hover,.fa-solid:hover
     {
         background: #ffffff;
         cursor: pointer;
@@ -339,7 +339,7 @@ h1,h2,h3,h4,h5
         padding-bottom: 20px;
 		color: #ffffff;
     }
-#contact .fa
+#contact .fa,.fa-brands,.fa-solid
     {
         border: 2px solid #ffffff;
         border-radius: 50%;
